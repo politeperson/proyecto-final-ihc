@@ -18,4 +18,4 @@ el archivo `Examen parcial práctico_IHC.pdf`.
 4. Ejecutar el comando `python main.py` y listo se abrirá la GUI de guía.
 5. Siga las instrucciones de la interfaz.
 # Vídeo de demostración
-El vídeo de demostración y guía para controlar el programa se encuentra en el siguiente enlace: [](demo)
+El vídeo de demostración y guía para controlar el programa se encuentra en el siguiente enlace: [demo](https://youtu.be/LP_Gf9_wK70).
